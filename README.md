@@ -16,6 +16,8 @@ Validation set : 100
 
 Testing set    : 100
 
+Naming Convention of Pieces: 
+
 | Peice Name     | Label |
 | ---      | ---       |
 | White Bishop | WB         |
@@ -25,37 +27,10 @@ Testing set    : 100
 | White Qween | WQ         |
 | White Castle     | WC        |
 | Black Bishop | BB         |
-| Black King     | BK        |
+| Black King     | BK       |
 | Black Pawn  | BP         |
-| Black Knight     | BK        |
+| Black Knight     | BKN        |
 | Black Qween     | BQ        |
 | Black Castle     | BC|        |
-
-Naming Convention of Pieces: 
-
-- WB: White Bishop
-
-- WK: White King
-
-- WP: White Pawn
-
-- WKN: White Knight
-
-- WQ: White Qween 
-
-- WC: White Castle
-
-- BB: Black Bishop
-
-BK: Black King
-
-BP: Black Pawn
-
-BKN: Black Knight
-
-BQ: Black Qween 
-
-BC: Black Castle
-
 
 
