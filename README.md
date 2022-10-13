@@ -12,7 +12,7 @@ I created a custom dataset of labeled chess peices. I used a program called Labe
 
 Upload your custom dataset into roboflow, it will split your data into a train, validation, test split of your choosing. Another cool feature is that you can export the data in the format you need for the model you plan on using. It is free for private/research use. 
 
-Training set   : 443
+Training set   : 1300
 
 Validation set : 127
 
@@ -45,8 +45,6 @@ This is useful to add more training examples for the model to learn
 - Grayscale
 - Brightness
 
-
-After augmentation we now will have 1300 images to train with!
 
 
 
