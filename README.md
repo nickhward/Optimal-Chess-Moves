@@ -10,7 +10,11 @@ I can't affor a decsent computer that has GPU, this is why any object detection 
 
 I created a custom dataset of labeled chess peices. I used a program called Labelme to draw bounding boxes around all chess peices on the board. 
 
+![Screen Shot 2022-10-08 at 1 03 03 PM](https://user-images.githubusercontent.com/78880630/195529572-3f3a29f1-54b9-44f7-befe-174ef68b9a10.png)
+
 Upload your custom dataset into roboflow, it will split your data into a train, validation, test split of your choosing. Another cool feature is that you can export the data in the format you need for the model you plan on using. It is free for private/research use. 
+
+
 
 Training set   : 1300
 
