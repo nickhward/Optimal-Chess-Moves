@@ -9,5 +9,8 @@ I can't affor a decsent computer that has GPU, this is why any object detection 
 # Dataset:
 
 Training set   : 400
+
 Validation set : 100
+
 Testing set    : 100
+
