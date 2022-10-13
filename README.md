@@ -16,6 +16,19 @@ Validation set : 100
 
 Testing set    : 100
 
+| Peice Name     | Label |
+| ---      | ---       |
+| White Bishop | WB         |
+| White King     | WK|        |
+| Backtick | `         |
+| Pipe     | \|        |
+| Backtick | `         |
+| Pipe     | \|        |
+| Backtick | `         |
+| Pipe     | \|        |
+| Backtick | `         |
+| Pipe     | \|        |
+
 Naming Convention of Pieces: 
 
 - WB: White Bishop
