@@ -50,6 +50,7 @@ This is useful to add more training examples for the model to learn
 - Brightness
 
 Example of final image with labeling:
+
 ![Screen Shot 2022-10-13 at 12 26 19 AM](https://user-images.githubusercontent.com/78880630/195530221-a636d6d7-b2f6-47e5-a586-d1d173a83043.png)
 
 
