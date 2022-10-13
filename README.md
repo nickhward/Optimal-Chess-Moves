@@ -18,19 +18,19 @@ Testing set    : 100
 
 Naming Convention of Pieces: 
 
-WB: White Bishop
+- WB: White Bishop
 
-WK: White King
+- WK: White King
 
-WP: White Pawn
+- WP: White Pawn
 
-WKN: White Knight
+- WKN: White Knight
 
-WQ: White Qween 
+- WQ: White Qween 
 
-WC: White Castle
+- WC: White Castle
 
-BB: Black Bishop
+- BB: Black Bishop
 
 BK: Black King
 
