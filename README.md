@@ -10,11 +10,13 @@ I can't affor a decsent computer that has GPU, this is why any object detection 
 
 I created a custom dataset of labeled chess peices. I used a program called Labelme to draw bounding boxes around all chess peices on the board. 
 
-Training set   : 400
+Upload your custom dataset into roboflow, it will split your data into a train, validation, test split of your choosing. Another cool feature is that you can export the data in the format you need for the model you plan on using. It is free for private/research use. 
 
-Validation set : 100
+Training set   : 443
 
-Testing set    : 100
+Validation set : 127
+
+Testing set    : 63
 
 Naming Convention of Pieces: 
 
@@ -32,5 +34,19 @@ Naming Convention of Pieces:
 | Black Knight     | BKN        |
 | Black Qween     | BQ        |
 | Black Castle     | BC|        |
+
+Augmentation of Images:
+
+This is useful to add more training examples for the model to learn
+
+- Flipped
+- Rotation of 90 Deg
+- Shear
+- Grayscale
+- Brightness
+
+
+After augmentation we now will have 1300 images to train with!
+
 
 
