@@ -78,6 +78,15 @@ Example of final image with labeling:
 
 
 
+*Here are some test images to give you an example of the ability it has to perform Object detection on unseen images*
+
+![image](https://user-images.githubusercontent.com/78880630/195713588-6afad199-fabe-497f-9251-f64d1b371c64.png)
+![image](https://user-images.githubusercontent.com/78880630/195713648-825bfa2c-ece8-414e-a01e-4af4c5abcfee.png)
+![image](https://user-images.githubusercontent.com/78880630/195713698-09c797cb-63ec-4064-92c7-c3a0269c7d40.png)
+![image](https://user-images.githubusercontent.com/78880630/195713798-588e231a-289f-4e4d-97a7-cacefa86bb00.png)
+
+
+
 
 
 
