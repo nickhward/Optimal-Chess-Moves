@@ -19,15 +19,17 @@ Testing set    : 100
 | Peice Name     | Label |
 | ---      | ---       |
 | White Bishop | WB         |
-| White King     | WK|        |
-| Backtick | `         |
-| Pipe     | \|        |
-| Backtick | `         |
-| Pipe     | \|        |
-| Backtick | `         |
-| Pipe     | \|        |
-| Backtick | `         |
-| Pipe     | \|        |
+| White King     | WK        |
+| White Pawn | WP         |
+| White Knight     | WKN       |
+| White Qween | WQ         |
+| White Castle     | WC        |
+| Black Bishop | BB         |
+| Black King     | BK        |
+| Black Pawn  | BP         |
+| Black Knight     | BK        |
+| Black Qween     | BQ        |
+| Black Castle     | BC|        |
 
 Naming Convention of Pieces: 
 
