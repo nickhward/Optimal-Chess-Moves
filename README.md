@@ -51,7 +51,8 @@ This is useful to add more training examples for the model to learn
 
 Example of final image with labeling:
 
-![Screen Shot 2022-10-13 at 12 26 19 AM](https://user-images.githubusercontent.com/78880630/195530221-a636d6d7-b2f6-47e5-a586-d1d173a83043.png)
+![Screen Shot 2022-10-13 at 12 27 47 AM](https://user-images.githubusercontent.com/78880630/195530437-18bf3214-342d-4dd9-8831-5d4d0d58e31b.png)
+
 
 
 
