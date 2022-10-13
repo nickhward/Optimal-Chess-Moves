@@ -56,7 +56,7 @@ Example of final image with labeling:
 
 # Results:
 
-![image](https://user-images.githubusercontent.com/78880630/195548452-5aa7ab9c-4499-4544-b4c3-d1dc2b71f71a.png)
+![F1 Curve][image](https://user-images.githubusercontent.com/78880630/195548452-5aa7ab9c-4499-4544-b4c3-d1dc2b71f71a.png)
 
 ![image](https://user-images.githubusercontent.com/78880630/195548480-b1e89115-42cc-4c8b-b7b0-1645d39e3fd5.png)
 
